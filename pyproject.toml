@@ -1,0 +1,11 @@
+[project]
+name = "thrust-stand"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.9.2",
+    "polars>=1.9.0",
+    "scipy>=1.14.1",
+]
